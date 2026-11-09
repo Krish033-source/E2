@@ -1,0 +1,6 @@
+generated/
+__pycache__/
+*.pyc
+.venv/
+.git/
+.env
